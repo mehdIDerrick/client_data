@@ -1,657 +1,794 @@
-activation_date,tmcode,offer_name,entity_type_name,entity_name,nb_count
-2024-06-11,99,Edawa5,FRANCHISE,Franchise sfax 4,1
-2024-06-10,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-14,99,Edawa5,LAB2.0,LAB Primavera GSM,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,2
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Place Bareclone,1
-2024-06-15,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-04,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Mahdia,2
-2024-06-13,334,New 3alami,TRAVEL RETAIL,PDV TRADE,4
-2024-06-06,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-06,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,1
-2024-06-13,99,Edawa5,FRANCHISE,LAB 2.0 Sté TAKE IT ALL,1
-2024-06-01,99,Edawa5,BOUTIQUE,Boutique Bizerte,1
-2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 11,1
-2024-06-04,99,Edawa5,LAB2.0,LAB Menzel Temime,1
-2024-06-02,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 10,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Gafsa,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-06,99,Edawa5,LAB2.0,LAB TABARKA GSM,2
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Box Aeroport Jerba,1
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sousse 2,1
-2024-06-14,334,New 3alami,TRAVEL RETAIL,PDV TRADE,2
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Kram,3
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Tunis City,2
-2024-06-06,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Nabeul,2
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Mourouj 1,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Fouchana,1
-2024-06-07,340,OBBBA,BOUTIQUE,Boutique Jendouba,1
-2024-06-13,335,Tawa bonus,LAB2.0,LAB Menzel Temime,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Marsa,2
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Ezzahra,3
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,2
-2024-06-11,99,Edawa5,LAB2.0,LAB Island com,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Borj el Wzir,2
-2024-06-01,335,Tawa bonus,FRANCHISE,Franchise Cite Riadh,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Ariana,2
-2024-06-13,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,1
-2024-06-11,334,New 3alami,TRAVEL RETAIL,PDV TRADE,7
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,2
-2024-06-17,335,Tawa bonus,FRANCHISE,Franchise Ben Guerdane,1
-2024-06-14,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Gabes,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Zarzis,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Hammamet,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Ettadhamen,2
-2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 11,1
-2024-06-11,335,Tawa bonus,LAB2.0,LAB Menzel Temime,1
-2024-06-05,335,Tawa bonus,LAB2.0,LAB Menzel Temime,6
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Marsa 2,2
-2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Soliman,1
-2024-06-15,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,1
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Ezzahrouni,1
-2024-06-04,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Walid Azizi,2
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Mourouj 4,3
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Kasserine,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-14,99,Edawa5,FRANCHISE,Franchise MANZEH6,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Manouba,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-03,99,Edawa5,LAB2.0,LAB AYOUB GSM,1
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Jendouba,1
-2024-06-12,99,Edawa5,LAB2.0,LAB TABARKA GSM,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Sousse 1,1
-2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Fouchana,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Marsa,1
-2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Lafayette,1
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Kasserine,1
-2024-06-15,335,Tawa bonus,BOUTIQUE,Boutique Mahdia,2
-2024-06-10,336,New Connecti,LAB2.0,LAB SEVEN ELEVEN,1
-2024-06-14,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,2
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Ksar Helal,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-03,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,2
-2024-06-08,99,Edawa5,FRANCHISE,Franchise EL Aouina,1
-2024-06-11,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise El Manar,3
-2024-06-11,99,Edawa5,LAB2.0,LAB BEB JEDID,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Medenine,1
-2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-16,334,New 3alami,TRAVEL RETAIL,PDV TRADE,2
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Zarzis,1
-2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-17,99,Edawa5,LAB2.0,LAB Mediatec,1
-2024-06-02,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,2
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Gabes,2
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Kram,2
-2024-06-10,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Kasserine,1
-2024-06-16,99,Edawa5,FRANCHISE,Franchise Box Aeroport Jerba,1
-2024-06-10,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Monastir,2
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Kairouan,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Av Londre,2
-2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,2
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Tunis City,1
-2024-06-01,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,1
-2024-06-15,99,Edawa5,LAB2.0,LAB KING PHONE,1
-2024-06-08,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Kairouan,4
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Kairouan,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Kelibia,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-11,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Sousse 2,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Kram,4
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Ksar Helal,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Bardo,2
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Monastir 2,1
-2024-06-12,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,2
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Manouba,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bizerte,6
-2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Marsa 2,1
-2024-06-10,99,Edawa5,LAB2.0,LAB MYDESK 2.0,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Marsa 2,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-12,336,New Connecti,BOUTIQUE,Boutique Tozeur,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Soliman,1
-2024-06-04,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Kairouan,2
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Monastir,1
-2024-06-07,335,Tawa bonus,LAB2.0,LAB BE MOBILE STORE,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Nabeul,2
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV_Trade mediacom 9,2
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Av Londre,2
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Manouba,2
-2024-06-06,99,Edawa5,FRANCHISE,Franchise EL Aouina,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Lafayette,2
-2024-06-07,99,Edawa5,LAB2.0,LAB ESPACE BARKANA,1
-2024-06-09,99,Edawa5,BOUTIQUE,Boutique Azur City,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,1
-2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise MANZEH6,4
-2024-06-13,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-10,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Sousse 1,1
-2024-06-07,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,1
-2024-06-09,99,Edawa5,BOUTIQUE,Boutique Tunis City,3
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Azur City,1
-2024-06-13,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Marsa,1
-2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 23,1
-2024-06-01,99,Edawa5,BOUTIQUE,Boutique Kairouan,2
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Tozeur,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,4
-2024-06-15,99,Edawa5,FRANCHISE,Franchise EL Aouina,3
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Kram,1
-2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Ezzahra,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Bardo,2
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-08,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,3
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Zaghouane,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise MANZEH6,1
-2024-06-01,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Le Passage,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Sousse 1,2
-2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Moknine,1
-2024-06-02,99,Edawa5,FRANCHISE,Franchise Tataouine,1
-2024-06-14,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,1
-2024-06-07,99,Edawa5,LAB2.0,LAB MOBILAND,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,1
-2024-06-13,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Maher Ahmedi,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise El Manar,1
-2024-06-15,99,Edawa5,LAB2.0,LAB TABARKA GSM,3
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Monastir,1
-2024-06-08,99,Edawa5,LAB2.0,LAB ESPACE BARKANA,1
-2024-06-02,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Kef,2
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Hammamet,1
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sfax 1,3
-2024-06-04,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 2,4
-2024-06-13,99,Edawa5,LAB2.0,LAB BEB JEDID,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise MANZEH6,1
-2024-06-14,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Gabes,1
-2024-06-14,334,New 3alami,TRAVEL RETAIL,PDV TRADE MONASTIR,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Beja,2
-2024-06-05,99,Edawa5,LAB2.0,LAB 2.0 NOUR ARIANA,1
-2024-06-01,99,Edawa5,LAB2.0,LAB SALHI COM,1
-2024-06-10,99,Edawa5,LAB2.0,LAB SEVEN ELEVEN,1
-2024-06-06,335,Tawa bonus,LAB2.0,LAB Menzel Temime,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-09,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Maher Ahmedi,1
-2024-06-08,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,1
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Mahdia,3
-2024-06-07,99,Edawa5,LAB2.0,LAB TIM BIR ALI,1
-2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,9
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,1
-2024-06-04,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,2
-2024-06-15,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,1
-2024-06-03,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Kelibia,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Zaghouane,1
-2024-06-15,99,Edawa5,LAB2.0,LAB TIM BIR ALI,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,2
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-15,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,1
-2024-06-01,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,1
-2024-06-13,335,Tawa bonus,LAB2.0,LAB SEVEN ELEVEN,1
-2024-06-06,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,3
-2024-06-03,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,2
-2024-06-12,99,Edawa5,LAB2.0,LAB Primavera GSM,1
-2024-06-05,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,1
-2024-06-10,335,Tawa bonus,LAB2.0,LAB Menzel Temime,2
-2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,3
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Fouchana,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,1
-2024-06-15,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,1
-2024-06-04,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Mateur,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,1
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Bizerte,2
-2024-06-04,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Lac II,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Zaghouane,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-01,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,1
-2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Mahdia,2
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Kram,3
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,9
-2024-06-11,99,Edawa5,LAB2.0,LAB SALHI COM,1
-2024-06-11,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Jendouba,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-09,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,1
-2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,2
-2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise El Manar,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Douar Hicher,1
-2024-06-10,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-10,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,1
-2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,2
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Kef,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Soliman,1
-2024-06-07,334,New 3alami,TRAVEL RETAIL,PDV TRADE,2
-2024-06-05,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-01,99,Edawa5,LAB2.0,LAB KING PHONE,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Tunis City,3
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Gabes,2
-2024-06-06,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,2
-2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Nabeul,1
-2024-06-09,334,New 3alami,TRAVEL RETAIL,PDV TRADE,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Ariana,3
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Kairouan,1
-2024-06-12,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Kram,3
-2024-06-03,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,1
-2024-06-12,335,Tawa bonus,AGENCE TRADE,SYM TELECOM_Trade  JENDOUBA,1
-2024-06-13,335,Tawa bonus,LAB2.0,LAB EXPRESS SERVICES,1
-2024-06-10,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Tataouine,1
-2024-06-12,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise sfax 4,3
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Sousse 2,2
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,5
-2024-06-10,99,Edawa5,LAB2.0,LAB BEB JEDID,2
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Nabeul,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Bizerte,1
-2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kef,6
-2024-06-04,99,Edawa5,LAB2.0,LAB MYDESK 2.0,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Manouba,3
-2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Ben Arous,2
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Central Park,5
-2024-06-15,99,Edawa5,FRANCHISE,Franchise MANZEH6,1
-2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Kairouan,3
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Sfax 2,1
-2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 23,1
-2024-06-12,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-01,335,Tawa bonus,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Bizerte,1
-2024-06-15,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,2
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Fouchana,1
-2024-06-05,334,New 3alami,TRAVEL RETAIL,PDV TRADE,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kef,2
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Fouchana,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Sfax 3,1
-2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,1
-2024-06-01,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,2
-2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,1
-2024-06-11,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-03,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-13,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Tozeur,1
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Ezzahra,1
-2024-06-08,99,Edawa5,LAB2.0,LAB TIM BIR ALI,1
-2024-06-04,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Zaghouane,1
-2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Sahloul,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Zarzis,1
-2024-06-10,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,2
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Nabeul,2
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Jendouba,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Ezzahra,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Korba,1
-2024-06-08,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Kairouan,1
-2024-06-06,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,1
-2024-06-10,334,New 3alami,TRAVEL RETAIL,PDV TRADE,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Av Londre,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,3
-2024-06-01,99,Edawa5,FRANCHISE,Franchise sfax 4,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Sfax 5,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-07,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Tunis City,3
-2024-06-07,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Soliman,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Sousse 1,2
-2024-06-13,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,1
-2024-06-05,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_ Khalil kthiri,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,1
-2024-06-11,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Gafsa,5
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Gabes,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Manouba,1
-2024-06-09,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,1
-2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Azur City,1
-2024-06-13,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,1
-2024-06-07,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,1
-2024-06-10,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,2
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Moknine,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-09,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 1,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Borj el Wzir,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise sfax 4,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,1
-2024-06-07,336,New Connecti,FRANCHISE,Franchise Sfax 5,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,3
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Kef,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise MANZEH6,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Tozeur,1
-2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-03,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Mahdia,1
-2024-06-02,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Av Londre,3
-2024-06-10,335,Tawa bonus,FRANCHISE,Franchise OUED ELLIL,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Marsa 2,1
-2024-06-08,99,Edawa5,LAB2.0,LAB HELLO GSM,1
-2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,1
-2024-06-13,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,1
-2024-06-03,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,2
-2024-06-05,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,1
-2024-06-14,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Sfax 3,1
-2024-06-11,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,2
-2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Manouba,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-12,334,New 3alami,TRAVEL RETAIL,PDV TRADE,4
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Mourouj 4,3
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-13,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise El Manar,2
-2024-06-10,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,1
-2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,1
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Marsa,1
-2024-06-07,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Bardo,1
-2024-06-12,99,Edawa5,LAB2.0,LAB PHONE PLUS,2
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Sousse 1,1
-2024-06-15,334,New 3alami,TRAVEL RETAIL,PDV TRADE,4
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Mahdia,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Marsa 2,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Sousse 1,2
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Gafsa,2
-2024-06-13,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Av Londre,2
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Lafayette,3
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Kelibia,3
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Medenine,3
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Zarzis,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Khaireddine Pacha,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Sfax 5,1
-2024-06-01,99,Edawa5,LAB2.0,LAB BE MOBILE STORE,1
-2024-06-13,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,2
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Bizerte,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Gabes,1
-2024-06-04,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,2
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Jendouba,2
-2024-06-09,99,Edawa5,FRANCHISE,Franchise Ettadhamen,2
-2024-06-03,99,Edawa5,FRANCHISE,Franchise EL Aouina,4
-2024-06-14,99,Edawa5,LAB2.0,LAB Menzel Temime,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Bizerte,2
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Lafayette,1
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Mahdia,3
-2024-06-14,99,Edawa5,LAB2.0,LAB AYOUB GSM,1
-2024-06-04,99,Edawa5,LAB2.0,LAB Primavera GSM,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Korba,4
-2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Douar Hicher,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Khaireddine Pacha,1
-2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-09,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,4
-2024-06-13,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,1
-2024-06-17,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Sidi Bouzid,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kairouan,3
-2024-06-11,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,1
-2024-06-07,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Mourouj 4,2
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Ksar Helal,2
-2024-06-01,99,Edawa5,BOUTIQUE,Boutique Ezzahra,2
-2024-06-06,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Douar Hicher,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Monastir,1
-2024-06-04,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,2
-2024-06-08,99,Edawa5,LAB2.0,LAB BEB JEDID,1
-2024-06-15,334,New 3alami,TRAVEL RETAIL,PDV TRADE ENFIDHA,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Jendouba,1
-2024-06-15,99,Edawa5,LAB2.0,LAB BEB JEDID,2
-2024-06-10,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,1
-2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Zarzis,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Mourouj 1,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Av Londre,2
-2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Bardo,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sousse 2,4
-2024-06-06,99,Edawa5,LAB2.0,LAB MOBILAND,1
-2024-06-09,334,New 3alami,AGENCE TRADE,MEDIA COM+,1
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Tunis City,1
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Mourouj 4,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Kelibia,3
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,11
-2024-06-12,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,1
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Monastir,2
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Hammamet,1
-2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Zaghouane,1
-2024-06-10,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,2
-2024-06-04,99,Edawa5,LAB2.0,LAB ZARZIS GSM,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Gabes,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Ksar Helal,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 1,3
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Av Londre,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Korba,1
-2024-06-17,99,Edawa5,BOUTIQUE,Boutique Jendouba,2
-2024-06-04,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,1
-2024-06-08,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-02,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 13,1
-2024-06-16,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,5
-2024-06-06,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Ben Arous,1
-2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Kairouan,3
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Tunis City,3
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Sousse 1,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Kelibia,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Sousse 1,2
-2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Place Bareclone,1
-2024-06-13,335,Tawa bonus,FRANCHISE,Franchise Mourouj 1,1
-2024-06-03,335,Tawa bonus,BOUTIQUE,Boutique Ezzahra,3
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-05,99,Edawa5,FRANCHISE,LAB 2.0 Sté TAKE IT ALL,1
-2024-06-13,99,Edawa5,LAB2.0,LAB MYDESK 2.0,1
-2024-06-04,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,2
-2024-06-01,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Bardo,2
-2024-06-02,99,Edawa5,FRANCHISE,Franchise Korba,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise El Manar,1
-2024-06-12,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Kasserine,1
-2024-06-13,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-14,336,New Connecti,LAB2.0,LAB SEVEN ELEVEN,2
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Azur City,1
-2024-06-01,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Tozeur,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kef,2
-2024-06-15,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,2
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Medenine,1
-2024-06-06,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique VIP Lac  I,1
-2024-06-07,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,1
-2024-06-10,99,Edawa5,LAB2.0,LAB ESPACE ZAHRAA,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Nabeul,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Gafsa,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Marsa 2,1
-2024-06-04,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,1
-2024-06-11,335,Tawa bonus,LAB2.0,LAB SEVEN ELEVEN,1
-2024-06-14,99,Edawa5,LAB2.0,LAB MYDESK 2.0,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,2
-2024-06-17,99,Edawa5,FRANCHISE,LAB 2.0 univers gsm ghardimaou,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Ettadhamen,4
-2024-06-05,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Cite Riadh,2
-2024-06-03,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_ Khalil kthiri,2
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Lac II,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise MANZEH6,3
-2024-06-13,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,3
-2024-06-15,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,4
-2024-06-12,99,Edawa5,FRANCHISE,Franchise Ettadhamen,2
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,1
-2024-06-13,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Sfax 2,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Gafsa,2
-2024-06-03,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,1
-2024-06-14,99,Edawa5,BOUTIQUE,Boutique Medenine,2
-2024-06-07,335,Tawa bonus,BOUTIQUE,Boutique Nabeul,1
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Tunis City,2
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Fouchana,2
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Marsa,1
-2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bardo,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Bizerte,2
-2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Central Park,2
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,2
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Bizerte,1
-2024-06-01,99,Edawa5,LAB2.0,LAB PHONE PLUS,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-15,99,Edawa5,LAB2.0,LAB GOOGL INFO,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Tataouine,1
-2024-06-11,99,Edawa5,LAB2.0,LAB BE MOBILE STORE,2
-2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,4
-2024-06-10,340,OBBBA,BOUTIQUE,Boutique Mahdia,1
-2024-06-15,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,1
-2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-06,99,Edawa5,LAB2.0,LAB SALHI COM,3
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Lac II,1
-2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kef,2
-2024-06-06,99,Edawa5,LAB2.0,LAB AYOUB GSM,5
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Lac II,1
-2024-06-06,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,1
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,1
-2024-06-08,99,Edawa5,LAB2.0,LAB Menzel Temime,1
-2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise El Manar,2
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Marsa 2,2
-2024-06-05,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Sousse 1,1
-2024-06-11,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,1
-2024-06-04,99,Edawa5,FRANCHISE,Franchise Ennaser 2,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-12,335,Tawa bonus,FRANCHISE,Franchise Fouchana,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Sousse 1,2
-2024-06-05,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Sahloul,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Ettadhamen,2
-2024-06-08,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,1
-2024-06-07,99,Edawa5,BOUTIQUE,Boutique Kairouan,2
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Cite Riadh,1
-2024-06-15,99,Edawa5,LAB2.0,LAB Media Market,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-13,335,Tawa bonus,BOUTIQUE,Boutique Kef,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Kram,1
-2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kairouan,8
-2024-06-03,99,Edawa5,BOUTIQUE,Boutique Monastir,1
-2024-06-11,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,1
-2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV Rayen trade Grand Tunis,3
-2024-06-05,99,Edawa5,BOUTIQUE,Boutique Tozeur,2
-2024-06-11,99,Edawa5,BOUTIQUE,Boutique Sfax 1,1
-2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Central Park,1
-2024-06-04,99,Edawa5,LAB2.0,LAB MOBILAND,1
-2024-06-04,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,1
-2024-06-07,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,3
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Tunis City,2
-2024-06-01,99,Edawa5,BOUTIQUE,Boutique Mahdia,1
-2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,1
-2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Nabeul,1
-2024-06-14,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Jendouba,1
-2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 3,1
-2024-06-11,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,1
-2024-06-07,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,3
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Sfax 5,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise sfax 4,1
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Korba,1
-2024-06-04,99,Edawa5,BOUTIQUE,Boutique Ezzahra,1
-2024-06-12,99,Edawa5,LAB2.0,LAB Menzel Temime,1
-2024-06-08,99,Edawa5,FRANCHISE,Franchise Msaken,1
-2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,1
-2024-06-08,99,Edawa5,BOUTIQUE,Boutique Bizerte,1
-2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,1
-2024-06-03,99,Edawa5,FRANCHISE,Franchise Soliman,2
-2024-06-08,334,New 3alami,TRAVEL RETAIL,PDV TRADE,3
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Ettadhamen,1
-2024-06-01,334,New 3alami,TRAVEL RETAIL,PDV TRADE,2
-2024-06-13,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,2
-2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Cite Riadh,1
-2024-06-14,99,Edawa5,FRANCHISE,Franchise Zaghouane,3
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Cite Riadh,1
-2024-06-10,99,Edawa5,BOUTIQUE,Boutique Gabes,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,2
-2024-06-12,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,1
-2024-06-05,99,Edawa5,FRANCHISE,Franchise Gafsa,1
-2024-06-10,99,Edawa5,FRANCHISE,Franchise Ariana,1
-2024-06-15,99,Edawa5,LAB2.0,LAB GLOBAL PHONE,1
-2024-06-15,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,1
-2024-06-10,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,1
-2024-06-11,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 3,1
-2024-06-12,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,1
-2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,3
-2024-06-10,99,Edawa5,LAB2.0,LAB TABARKA GSM,1
-2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Ben Arous,1
-2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Mourouj 4,2
-2024-06-15,99,Edawa5,BOUTIQUE,Boutique Sousse 2,1
-2024-06-03,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,1
-2024-06-15,99,Edawa5,LAB2.0,LAB SEVEN ELEVEN,1
-2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 6,1
-2024-06-06,99,Edawa5,FRANCHISE,Franchise Gafsa,1
-2024-06-11,99,Edawa5,FRANCHISE,Franchise Manouba,1
-2024-06-06,99,Edawa5,BOUTIQUE,Boutique Mahdia,1
-2024-06-15,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,1
+activation_date,tmcode,offer_name,entity_type_name,entity_name,seller_id,nb_count
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Cite Riadh,AYSANA,1
+2024-06-14,99,Edawa5,LAB2.0,LAB AYOUB GSM,AAYOUC,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise sfax 4,HANTOU,1
+2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 23,DISTSMS,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MAZLHI,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Bizerte,MEBEAMAR,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Medenine,MMAHDHI,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise MANZEH6,MDASBRI,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Ennaser 2,CHSBAI,1
+2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Central Park,IKHEMIRI,1
+2024-06-01,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,OUMZC,1
+2024-06-01,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,DISTMCOM,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Cite Riadh,YELKAM,1
+2024-06-15,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,JAAICH,2
+2024-06-13,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,4
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Central Park,MDAOUED,4
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Monastir,ABSLH,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kairouan,ISAOUDI,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Kram,BELLAML,1
+2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,DISTSMS,1
+2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kef,ASDACHR,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,RAHME,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Sousse 1,SOUKHAO,1
+2024-06-12,99,Edawa5,LAB2.0,LAB Menzel Temime,HMRYAM,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kairouan,FOUADA,5
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Ariana,MAAYARC,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Ben Arous,SEOUAYM,1
+2024-06-15,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Manouba,BGTAS,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Medenine,NMESSOUD,1
+2024-06-15,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,TRABWC,1
+2024-06-06,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,WFRAJC,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,WMAKKR,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Ariana,MAAYARC,1
+2024-06-12,99,Edawa5,LAB2.0,LAB PHONE PLUS,GHANWC,2
+2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,ISAOUDI,2
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Msaken,NRMI,1
+2024-06-04,99,Edawa5,LAB2.0,LAB Primavera GSM,MAJRABIC,1
+2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,ZEBIA,2
+2024-06-01,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Le Passage,ADSYMT,1
+2024-06-04,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,GASSOM,2
+2024-06-13,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,HAMAMC,2
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Gafsa,JMANS,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Kram,RALOUS,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENRAGI,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Fouchana,KHAREZ,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise EL Aouina,ARIHA,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,AKADR,2
+2024-06-03,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_ Khalil kthiri,ATRCOM,2
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,WNEJIC,2
+2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,TRIKIMC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Azur City,MRAYM,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Mahdia,KAAROUI,2
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Av Londre,NRIMR,2
+2024-06-05,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,SLIEEYA,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Korba,BENZBSAM,1
+2024-06-13,99,Edawa5,LAB2.0,LAB MYDESK 2.0,RAHLM,1
+2024-06-02,99,Edawa5,FRANCHISE,Franchise Tataouine,SMOKTH,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Sousse 1,HIMEN,1
+2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Sahloul,SSALW,1
+2024-06-03,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,AMBOUG,2
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Kef,ZALEDDIN,1
+2024-06-05,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Khaireddine Pacha,FANTASY,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Mourouj 4,BACCWC,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,NTARRK,2
+2024-06-06,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Mateur,AMALF,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,ASOUID,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,BMUSFAKH,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Ariana,AGHAZ,1
+2024-06-13,335,Tawa bonus,LAB2.0,LAB SEVEN ELEVEN,MRKYASS,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Sfax 5,AMGHRB,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Ariana,MGHALB,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,SLIEEYA,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Azur City,BHSLAH,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sousse 2,KACHOUR,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Msaken,NRMI,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Gabes,SBALIN,1
+2024-06-06,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,NAIFTN,2
+2024-06-11,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,BENATIF,2
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Ettadhamen,RACHAM,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Nabeul,HBENMA0,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise El Manar,CHRIFC,3
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Jendouba,MALABIED,1
+2024-06-04,335,Tawa bonus,BOUTIQUE,Boutique Central Park,WTEBOU0,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise OUED ELLIL,KHERIDH,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SHBIB,2
+2024-06-06,335,Tawa bonus,LAB2.0,LAB Menzel Temime,ESSAHC,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Fouchana,YOMAIM,1
+2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Bardo,NBENMO0,1
+2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,HCHEBB,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sahloul,LMALEK,1
+2024-06-04,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,OUMZC,1
+2024-06-03,335,Tawa bonus,BOUTIQUE,Boutique Ezzahra,HILHEM,2
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Jendouba,THAJJ,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Sousse 1,SRIM,1
+2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,SIBTISM,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Mahdia,ZEBASSEM,1
+2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 6,DISTMCOM,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Tunis City,BHAYOU0,2
+2024-06-13,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,SAMEDC,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Ettadhamen,SIBTISM,1
+2024-06-15,99,Edawa5,LAB2.0,LAB GLOBAL PHONE,AISSNC,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SRABE,1
+2024-06-15,335,Tawa bonus,BOUTIQUE,Boutique Mahdia,MEDANOUZ,2
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Ettadhamen,HABHAB,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Soliman,SOUSAF,1
+2024-06-15,99,Edawa5,LAB2.0,LAB Media Market,MAGNIZ,1
+2024-06-10,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,EZZINC,1
+2024-06-05,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,BOURHB,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise El Manar,CHRIFC,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sfax 1,FHAMMA0,1
+2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,DISTSMS,1
+2024-06-09,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,2
+2024-06-12,336,New Connecti,BOUTIQUE,Boutique Tozeur,BEFERCHI,1
+2024-06-03,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,2
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Jendouba,MALABIED,1
+2024-06-03,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,KHEKHLC,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Av Londre,NRIMR,1
+2024-06-15,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,ZEBIA,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Gabes,SBALIN,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Marsa 2,OBABY,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kasserine,MTHOU,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,SALAAB,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Av Londre,RMADI,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Kairouan,ECHERIF,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Jendouba,GTAREK,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Tozeur,BEFERCHI,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,SAMAL,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Medenine,STABBASI,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,TASILI,1
+2024-06-15,99,Edawa5,LAB2.0,LAB SEVEN ELEVEN,MARRMAL,1
+2024-06-08,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,AKMAL,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,MBARGAOU,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Hammamet,FADJAZIR,1
+2024-06-11,99,Edawa5,LAB2.0,LAB Island com,MSOUBA,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Manouba,KNESR,1
+2024-06-07,336,New Connecti,FRANCHISE,Franchise Sfax 5,CLOUHICH,1
+2024-06-14,99,Edawa5,LAB2.0,LAB MYDESK 2.0,IBDKHL,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Sousse 1,SAGUEL,2
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Medenine,MMAHDHI,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Tunis City,AJERBI0,1
+2024-06-03,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,AKMAL,2
+2024-06-11,99,Edawa5,LAB2.0,LAB SALHI COM,HAMRO,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Msaken,IHAJER,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Ezzahra,RBENMARK,2
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Tunis City,ZSIHEM,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Ettadhamen,RACHAM,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Gafsa,SBASMA,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Beja,CHIMOUEJ,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Ennaser 2,CHSBAI,1
+2024-06-12,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Kairouan,SDHAHRI,3
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Mourouj 1,RBABAD,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Kef,BASABRIN,1
+2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Kef,BKHAOUL,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MAZLHI,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Sfax 1,MCHERI0,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Fouchana,ICSAC,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Marsa,EKOURA0,1
+2024-06-01,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Medenine,NMESSOUD,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Mourouj 4,MBALDI,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-01,99,Edawa5,LAB2.0,LAB SALHI COM,DARZN,1
+2024-06-03,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Gabes,BAROMDH,2
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,WAKRM,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise MANZEH6,AHAMZA,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Borj el Wzir,MAKRAFI,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Ksar Helal,OGANOU,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Tunis City,BHAYOU0,2
+2024-06-05,335,Tawa bonus,LAB2.0,LAB Menzel Temime,ESSAHC,6
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Kram,AISSAYN,3
+2024-06-12,99,Edawa5,LAB2.0,LAB Primavera GSM,MAJRABIC,1
+2024-06-13,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,OREKIK,1
+2024-06-10,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,ATRCOM,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sousse 1,GMARW,1
+2024-06-05,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,DISTMCOM,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sahloul,AMBOUFA,1
+2024-06-09,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Maher Ahmedi,ATRCOM,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Sousse 1,GMARW,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Lafayette,BANIS,1
+2024-06-11,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Sousse 2,FKAHWAJI,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Sousse 1,HIMEN,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Kram,AISSAYN,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise EL Aouina,KHSOUD,2
+2024-06-14,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,2
+2024-06-12,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Kairouan,SDHAHRI,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,ABIRTAR,2
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Ariana,MGHALB,1
+2024-06-13,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Nabeul,SMAKHL0,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Gabes,RSLATNI,1
+2024-06-06,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,BOUGOK,1
+2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 1,DISTSMS,1
+2024-06-08,335,Tawa bonus,BOUTIQUE,Boutique Central Park,FFEKIH0,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Mourouj 4,BACCWC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,DKINES,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Gafsa,AKWISSL,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,KHERIDH,1
+2024-06-09,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,MAKHLFC,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Nabeul,IMBARK0,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Gabes,SBALIN,1
+2024-06-16,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,WNEJIC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Tozeur,NABOUALL,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Korba,NASRF,2
+2024-06-06,99,Edawa5,FRANCHISE,Franchise El Manar,BADRHAS,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,FCHOUCHA,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 2,TONY,1
+2024-06-10,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,KSAMIHC,1
+2024-06-04,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-11,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,MAAWC,1
+2024-06-12,99,Edawa5,LAB2.0,LAB TABARKA GSM,HNOSRI,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise El Manar,CHRIFC,1
+2024-06-10,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,DISTSMS,1
+2024-06-07,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-11,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,OIMENC,1
+2024-06-13,335,Tawa bonus,LAB2.0,LAB Menzel Temime,ESSAHC,1
+2024-06-10,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,BOFSLC,2
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ANAWR,2
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kef,ZALEDDIN,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sfax 3,KOUBM,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise MANZEH6,MDASBRI,2
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Kairouan,FOUADA,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Tataouine,GANDHE,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Kef,NBEJI,2
+2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Ezzahra,MLAZRE0,1
+2024-06-04,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Ariana,AYCOUB,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Av Londre,NRIMR,2
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sousse 2,RBENLAKH,4
+2024-06-08,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,CHEFO,2
+2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Korba,NASRF,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique VIP Lac  I,BHAKIM0,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Zarzis,RBABOURA,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Bardo,MJOUIN0,2
+2024-06-14,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Jendouba,MALABIED,1
+2024-06-08,99,Edawa5,LAB2.0,LAB HELLO GSM,LAZNABC,1
+2024-06-11,99,Edawa5,LAB2.0,LAB BEB JEDID,GHZAHC,1
+2024-06-05,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_ Khalil kthiri,ATRCOM,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Sousse 1,HIMEN,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Av Londre,SAFAYAC3,1
+2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Fouchana,ICSAC,1
+2024-06-07,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,3
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Zarzis,AMGHAM,1
+2024-06-17,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Ezzahra,TBELKAHL,2
+2024-06-14,99,Edawa5,LAB2.0,LAB Primavera GSM,MAJRABIC,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Ksar Helal,AMANSOR,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Nabeul,MAGHARBI,1
+2024-06-03,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,AMCHRN,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Gafsa,AKWISSL,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Monastir 2,RAHANB,1
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,ABIRTAR,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Tataouine,GANDHE,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise El Manar,BADRHAS,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Zarzis,MTRAB,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Lafayette,STRABS,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MAZLHI,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MAZLHI,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,2
+2024-06-08,99,Edawa5,LAB2.0,LAB BEB JEDID,GHZAHC,1
+2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,NAJSAF,2
+2024-06-13,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,EZZINC,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Kram,RALOUS,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Zaghouane,FADECH,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kairouan,SDHAHRI,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Soliman,OUHMID,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Sfax 3,MKARDN,1
+2024-06-13,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,BOUGOK,1
+2024-06-10,99,Edawa5,LAB2.0,LAB BEB JEDID,GHZAHC,1
+2024-06-05,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,SAMEDC,1
+2024-06-10,99,Edawa5,LAB2.0,LAB SEVEN ELEVEN,MARRMAL,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bardo,ADJEBI,1
+2024-06-15,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,BOUGOK,4
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bizerte,ZBHSLAH,1
+2024-06-15,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,2
+2024-06-10,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,BABCHIC,1
+2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Soliman,OUHMID,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Sahloul,TABAHRI,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,AKADR,1
+2024-06-01,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,2
+2024-06-16,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,KABDE,2
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Bardo,BNOUIR0,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,ABIRTAR,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Sfax 1,FKBEILI,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,OIMENC,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Mourouj 1,NASRHL,1
+2024-06-07,335,Tawa bonus,FRANCHISE,Franchise Ettadhamen,SIBTISM,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Marsa,BETTBILE,1
+2024-06-10,340,OBBBA,BOUTIQUE,Boutique Mahdia,HEHASSEN,1
+2024-06-10,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,SAMEDC,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Tozeur,NOMAY,1
+2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Central Park,RIADSH,2
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Gabes,DBSALA,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Bizerte,ZBHSLAH,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Sfax 1,HGANNO0,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MBALDI,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kram,RALOUS,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Mourouj 4,MBALDI,1
+2024-06-10,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,TRIKMOH,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Av Londre,SAFAYAC3,1
+2024-06-15,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,CHEFO,1
+2024-06-10,335,Tawa bonus,LAB2.0,LAB Menzel Temime,ESSAHC,2
+2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,MOSYNE,1
+2024-06-10,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,NONATAR,1
+2024-06-02,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,LWAML,1
+2024-06-09,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 1,DISTSMS,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Kairouan,SOUAZZ,1
+2024-06-10,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,BOURHB,1
+2024-06-05,99,Edawa5,LAB2.0,LAB 2.0 NOUR ARIANA,CHEAML,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Moknine,MSDHRK,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Lafayette,BANIS,1
+2024-06-12,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,BOURHB,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Ennaser 2,CHSBAI,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Korba,HZYDS,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ABARG,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Sousse 2,RBENLAKH,1
+2024-06-16,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,RAHME,1
+2024-06-12,335,Tawa bonus,AGENCE TRADE,SYM TELECOM_Trade  JENDOUBA,ADSYMT,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise OUED ELLIL,SLIEEYA,1
+2024-06-01,335,Tawa bonus,FRANCHISE,Franchise Cite Riadh,BENAMRC,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,WMAKKR,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Ezzahra,ZMAZIZ,1
+2024-06-01,99,Edawa5,LAB2.0,LAB BE MOBILE STORE,HGHDA,1
+2024-06-01,335,Tawa bonus,FRANCHISE,Franchise Sidi Bouzid,YEDDY,2
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Hammamet,FADJAZIR,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Monastir,BFRAMZI,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,GHANA,1
+2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Cite El Ghazella,BMUSFAKH,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Kairouan,ECHERIF,1
+2024-06-06,335,Tawa bonus,AGENCE TRADE,PDV Rayen trade Grand Tunis,ATRCOM,3
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Av Londre,NRIMR,1
+2024-06-16,99,Edawa5,FRANCHISE,Franchise Box Aeroport Jerba,ELBSLIMN,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Bizerte,SAHWIA,1
+2024-06-01,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,EZZINC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,AMJEDID,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,AABDKRIM,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,MLAJM,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Tunis City,MBENNA0,1
+2024-06-13,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,MHOTHM,1
+2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Ben Arous,SBZOUITA,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Soliman,SOUSAF,1
+2024-06-12,335,Tawa bonus,FRANCHISE,Franchise Fouchana,LAMANI,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Jendouba,GTAREK,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Ezzahra,TBELKAHL,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Mourouj 4,BACCWC,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise EL Aouina,BWAEL,1
+2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 11,DISTSMS,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Kasserine,TORHI,1
+2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,MOSYNE,2
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Zaghouane,FADECH,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sousse 1,SAGUEL,1
+2024-06-08,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,SARRA,1
+2024-06-14,99,Edawa5,LAB2.0,LAB Menzel Temime,HMRYAM,1
+2024-06-08,99,Edawa5,LAB2.0,LAB Menzel Temime,HMRYAM,1
+2024-06-14,336,New Connecti,LAB2.0,LAB SEVEN ELEVEN,MRKYASS,1
+2024-06-09,99,Edawa5,BOUTIQUE,Boutique Tunis City,MHAMMEMI,3
+2024-06-11,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,MHOTHM,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 2,MFRAD,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-14,334,New 3alami,TRAVEL RETAIL,PDV TRADE MONASTIR,DISTMCOM,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,NANIS,1
+2024-06-11,99,Edawa5,LAB2.0,LAB BE MOBILE STORE,MHBASC,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,SAMAL,2
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Kelibia,TMOHA,1
+2024-06-10,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,1
+2024-06-10,99,Edawa5,LAB2.0,LAB ESPACE ZAHRAA,GUIEAMN,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Ettadhamen,ISBOUL,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,MONTFA,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kram,AISSAYN,2
+2024-06-13,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,ABOMRN,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Lafayette,SMAHR,1
+2024-06-13,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,MAKRAFI,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Jendouba,MALABIED,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,AKAMOUN,1
+2024-06-13,335,Tawa bonus,LAB2.0,LAB EXPRESS SERVICES,ABOMRN,1
+2024-06-09,99,Edawa5,FRANCHISE,Franchise Ettadhamen,RACHAM,1
+2024-06-07,99,Edawa5,LAB2.0,LAB MOBILAND,BEYASS,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Soliman,FRIHOL,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Bizerte,MANJEDI,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise EL Aouina,ARIHA,1
+2024-06-15,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,DISTMCOM,1
+2024-06-04,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,AKMAL,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ABARG,1
+2024-06-06,99,Edawa5,LAB2.0,LAB SALHI COM,HAMRO,2
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Marsa,KHGHRIBI,1
+2024-06-14,99,Edawa5,LAB2.0,LAB TELEPHONE STORE,MAAWC,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENZAOU,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Ariana,MESSNB,1
+2024-06-06,99,Edawa5,LAB2.0,LAB MOBILAND,BWAJC,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Mahdia,KAAROUI,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ANAWR,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,GHHAN,1
+2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,2
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Mahdia,ZEBASSEM,1
+2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Bardo,NAAOUAD,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Monastir,MBOKDIDA,1
+2024-06-11,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,TRIKIMC,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Sahloul,LMALEK,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Bizerte,TAHMED,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENRAGI,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Sahloul,AMBOUFA,1
+2024-06-07,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,TRIKIMC,1
+2024-06-08,99,Edawa5,LAB2.0,LAB TIM BIR ALI,LAHKHAW,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Box Aeroport Jerba,OBEN,1
+2024-06-04,99,Edawa5,LAB2.0,LAB MOBILAND,BEYASS,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kelibia,ARANIA,1
+2024-06-15,99,Edawa5,LAB2.0,LAB GOOGL INFO,RCHATC,1
+2024-06-14,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,ATRCOM,1
+2024-06-08,99,Edawa5,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,WKATOUI,1
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Kasserine,SOUHMD,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Kram,AMBENAC,1
+2024-06-13,335,Tawa bonus,FRANCHISE,Franchise Mourouj 1,NASRHL,1
+2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,NZARROUC,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Jendouba,SOFEZAI,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Sfax 1,SARFA,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Kelibia,ARANIA,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Tunis City,MBENNA0,3
+2024-06-14,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,BENSLATF,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Gabes,DBSALA,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Kram,RALOUS,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Ezzahra,RBENMARK,1
+2024-06-10,336,New Connecti,LAB2.0,LAB SEVEN ELEVEN,MARRMAL,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Bizerte,FABELKH,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Zarzis,MTRAB,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Medenine,NIDFELH,1
+2024-06-04,99,Edawa5,LAB2.0,LAB MYDESK 2.0,RABEBM,1
+2024-06-12,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,2
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Tunis City,KMEHDI,1
+2024-06-06,99,Edawa5,LAB2.0,LAB AYOUB GSM,AAYOUC,5
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Msaken,OUMDHOK,1
+2024-06-03,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Monastir,MCHATEUR,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Hammamet,SAHJAZIR,1
+2024-06-07,335,Tawa bonus,BOUTIQUE,Boutique Nabeul,MAGHARBI,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Gafsa,JMANS,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise MANZEH6,DZIEDC,1
+2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,DISTSMS,1
+2024-06-13,99,Edawa5,LAB2.0,LAB2.0 MOBISHOP,AKMAL,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Lafayette,BSEMNA,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Sfax 2,YAHAML,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise sfax 4,MNAELD,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sfax 1,MCHERI0,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,WFRAJC,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,SOUAZZ,2
+2024-06-12,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,4
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Kram,MOTRABNA,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ANAWR,2
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,IHMAM,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Gafsa,SBASMA,1
+2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,1
+2024-06-16,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SRABE,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sousse 1,HIMEN,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Ariana,AGHAZ,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise MANZEH6,AHAMZA,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Lafayette,ARAHAL,1
+2024-06-07,335,Tawa bonus,LAB2.0,LAB BE MOBILE STORE,MHBASC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Kairouan,ECHERIF,3
+2024-06-04,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Walid Azizi,ATRCOM,2
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 1,BSAMOU,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Sousse 1,GMARW,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Ksar Helal,SBSSALM,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Soliman,JLASSM,1
+2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Sidi Hassine,ABIRTAR,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,2
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Ettadhamen,MARWLAB,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Bizerte,MEBEAMAR,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Bizerte,MEBEAMAR,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SHBIB,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Ben Arous,HSONIA,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise sfax 4,BOUAZZO,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Tozeur,ZEBIA,2
+2024-06-10,99,Edawa5,LAB2.0,LAB TABARKA GSM,SAINAZH,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Marsa,CHOKOST,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise sfax 4,BOUAZZO,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kelibia,TMOHA,1
+2024-06-04,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,2
+2024-06-03,99,Edawa5,FRANCHISE,Franchise EL Aouina,EHELA,2
+2024-06-05,99,Edawa5,FRANCHISE,LAB 2.0 Sté TAKE IT ALL,KHMON,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Gafsa,JMANS,5
+2024-06-13,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Maher Ahmedi,ATRCOM,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Marsa 2,KKHIAC,2
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,SBENMAN,3
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Ennaser 2,CHSBAI,1
+2024-06-05,335,Tawa bonus,FRANCHISE,Franchise Marsa 2,KKHIAC,1
+2024-06-06,99,Edawa5,LAB2.0,LAB SALHI COM,DARZN,1
+2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,MJBENA,2
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Borj el Wzir,MAKRAFI,1
+2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 3,DISTSMS,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 2,MRHAI,1
+2024-06-11,335,Tawa bonus,FRANCHISE,Franchise Borj el Wzir,SLHNEN,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Gabes,NKHAR,1
+2024-06-15,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,HAMAMC,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENZAOU,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Zaghouane,SWMBA,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Medenine,ICHLOUH,1
+2024-06-10,335,Tawa bonus,BOUTIQUE,Boutique Central Park,IKHEMIRI,1
+2024-06-04,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,BABCHIC,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Kelibia,TMOHA,3
+2024-06-10,99,Edawa5,FRANCHISE,Franchise El Manar,MTHLAMN,1
+2024-06-08,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,BABCHIC,1
+2024-06-17,99,Edawa5,FRANCHISE,LAB 2.0 univers gsm ghardimaou,KHANAC,1
+2024-06-04,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Mourouj 4,IMOULDI,2
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Ariana,AYCOUB,1
+2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Moknine,MSDHRK,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SRABE,1
+2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,ISAOUDI,2
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Cite Riadh,OKBI,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,GSOUHAI,4
+2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kef,ASDACHR,1
+2024-06-15,335,Tawa bonus,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Nabeul,MAGHARBI,2
+2024-06-10,99,Edawa5,LAB2.0,LAB MYDESK 2.0,RAHLM,1
+2024-06-14,335,Tawa bonus,BOUTIQUE,Boutique Lafayette,NSALLE0,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Kef,NBEJI,2
+2024-06-13,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise EL Aouina,EHELA,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Tunis City,MBENNA0,3
+2024-06-15,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,4
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Cite Riadh,OKBI,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Kelibia,TMOHA,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Gabes,SBALIN,1
+2024-06-12,99,Edawa5,LAB2.0,LAB MOSAIQUE GSM,OUMZC,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise El Manar,BADRHAS,1
+2024-06-15,334,New 3alami,TRAVEL RETAIL,PDV TRADE ENFIDHA,DISTMCOM,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Khaireddine Pacha,SHAJER,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Tozeur,ZEBIA,1
+2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,MBENGHL,1
+2024-06-09,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,ABOMRN,4
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Jendouba,THAJJ,1
+2024-06-15,335,Tawa bonus,FRANCHISE,Franchise Zaghouane,FADECH,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Kairouan,ECHERIF,1
+2024-06-14,335,Tawa bonus,FRANCHISE,Franchise Douar Hicher,BOUBAAN,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Bizerte,FABELKH,2
+2024-06-11,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 3,DISTSMS,1
+2024-06-15,99,Edawa5,LAB2.0,LAB TIM BIR ALI,MAYMOHS,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Marsa 2,CSOUID,1
+2024-06-07,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,NAIFTN,1
+2024-06-03,335,Tawa bonus,BOUTIQUE,Boutique Ezzahra,NGHARB0,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,SALAAB,1
+2024-06-02,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 10,DISTSMS,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Ennaser 2,MBSAAD,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Douar Hicher,HHAMRN,1
+2024-06-11,335,Tawa bonus,LAB2.0,LAB SEVEN ELEVEN,FATBMC,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Tunis City,MBENNA0,1
+2024-06-13,99,Edawa5,LAB2.0,LAB BEB JEDID,GHZAHC,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,ISAOUDI,3
+2024-06-08,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,3
+2024-06-15,99,Edawa5,LAB2.0,LAB TABARKA GSM,BELMAN,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Kairouan,FOUADA,1
+2024-06-07,99,Edawa5,LAB2.0,LAB EXPRESS SERVICES,SARRA,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,MARSAD,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Central Park,FFEKIH0,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Msaken,NRMI,1
+2024-06-09,99,Edawa5,BOUTIQUE,Boutique Azur City,BHSLAH,1
+2024-06-07,99,Edawa5,LAB2.0,LAB TIM BIR ALI,LAHKHAW,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Bizerte,MEBEAMAR,1
+2024-06-15,99,Edawa5,LAB2.0,LAB TABARKA GSM,HNOSRI,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,RAHME,2
+2024-06-06,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,3
+2024-06-06,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,GASSOM,1
+2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV_Trade mediacom 9,DISTMCOM,2
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Korba,BENZBSAM,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise EL Aouina,EHELA,1
+2024-06-03,99,Edawa5,LAB2.0,LAB AYOUB GSM,AAYOUC,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,LWAML,1
+2024-06-10,335,Tawa bonus,AGENCE TRADE,PDV trade mediacom 5,DISTMCOM,1
+2024-06-06,335,Tawa bonus,AGENCE TRADE,Trade Rayen université 1,ATRCOM,1
+2024-06-14,336,New Connecti,LAB2.0,LAB SEVEN ELEVEN,MARRMAL,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise MANZEH6,BMOHA,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Lac II,JABWID,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise MANZEH6,DZIEDC,3
+2024-06-06,335,Tawa bonus,FRANCHISE,Franchise Jerba H Souk,MBENGHL,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Ettadhamen,HABHAB,1
+2024-06-11,335,Tawa bonus,LAB2.0,LAB Menzel Temime,ESSAHC,1
+2024-06-12,99,Edawa5,LAB2.0,LAB FATTOUMI GSM,GASSOM,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Sfax 1,BSAMOU,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Marsa,RFERIA0,1
+2024-06-14,335,Tawa bonus,AGENCE TRADE,PDV trade TNTN 4,DISTSMS,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Ennaser 2,ALSEIF,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Marsa 2,OBABY,2
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Douar Hicher,BOUBAAN,1
+2024-06-01,99,Edawa5,LAB2.0,LAB KING PHONE,ABWASMC,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Manouba,MKHAILLH,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Sfax 2,ARKHIS,1
+2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Central Park,AMRIABI,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise El Manar,HRAYE,1
+2024-06-07,335,Tawa bonus,BOUTIQUE,Boutique Kef,BKHAOUL,1
+2024-06-10,99,Edawa5,FRANCHISE,LAB2.0 GSM ARENA,MRAIAC,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise MANZEH6,DZIEDC,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise sfax 4,HANTOU,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Lac II,JABWID,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Nabeul,MLAHWE0,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Zaghouane,MBABD,3
+2024-06-15,99,Edawa5,LAB2.0,LAB KING PHONE,ABWASMC,1
+2024-06-04,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,MAKHLFC,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Zaghouane,GHAWS,1
+2024-06-09,334,New 3alami,AGENCE TRADE,MEDIA COM+,RABEBM,1
+2024-06-08,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,BENSLATF,1
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Fouchana,LAMANI,1
+2024-06-15,99,Edawa5,LAB2.0,LAB BEB JEDID,TONMAC,2
+2024-06-01,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,1
+2024-06-04,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,OREKIK,2
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Av Londre,RMADI,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,ELJBJ,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Gafsa,AKWISSL,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Av Londre,AARBIA,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kairouan,DORKC,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Ettadhamen,HABHAB,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Nabeul,MMOKNI0,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Kram,AMBENAC,2
+2024-06-05,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,BABCHIC,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Bizerte,SAHWIA,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Kasserine,SOUHMD,1
+2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 23,DISTSMS,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Mourouj 4,BACCWC,1
+2024-06-02,99,Edawa5,FRANCHISE,Franchise Ettadhamen,MARWLAB,1
+2024-06-06,335,Tawa bonus,LAB2.0,LAB 2.0 Telecom Express,BOURHB,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,RAHME,4
+2024-06-06,99,Edawa5,LAB2.0,LAB TABARKA GSM,CHNOUR,2
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,ELJBJ,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENRAGI,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Sousse 2,CFASSA0,2
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Zarzis,RBABOURA,1
+2024-06-02,99,Edawa5,FRANCHISE,Franchise Korba,CYJAAF,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,MLAJM,2
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Cite El Ghazella,WKATOUI,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Jerba Midoun,AABDKRIM,1
+2024-06-12,335,Tawa bonus,BOUTIQUE,Boutique Kef,BASABRIN,3
+2024-06-01,99,Edawa5,LAB2.0,LAB PHONE PLUS,GHANWC,1
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Sidi Bouzid,ABARG,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Kelibia,NCHOIKH,1
+2024-06-04,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,CHEFO,1
+2024-06-12,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Place Bareclone,ADSYMT,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,HADKHW,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Av Londre,RMADI,1
+2024-06-13,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,CHEFO,1
+2024-06-04,99,Edawa5,LAB2.0,LAB STE TECHNO TOP,KHEKHLC,1
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Av Londre,NRIMR,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bizerte,FABELKH,4
+2024-06-09,99,Edawa5,FRANCHISE,Franchise Ettadhamen,CHETOR,1
+2024-06-09,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,HRIAHI,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Mourouj 4,IMOULDI,1
+2024-06-07,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,HADKHW,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,SAMAL,1
+2024-06-07,99,Edawa5,LAB2.0,LAB ESPACE BARKANA,BOFSLC,1
+2024-06-10,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,WFRAJC,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise Msaken,AMRIZK,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Monastir,FCALI,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,MAHERSC,1
+2024-06-08,335,Tawa bonus,LAB2.0,PHONECOM LAB 2.0,BOUGOK,1
+2024-06-08,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SHBIB,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,KABDE,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,TMANE,1
+2024-06-10,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,OREKIK,2
+2024-06-11,335,Tawa bonus,BOUTIQUE,Boutique Azur City,AROUESLA,1
+2024-06-07,335,Tawa bonus,AGENCE TRADE,PDV SYM_Trade Place Bareclone,ADSYMT,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Ennaser 2,ALSEIF,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Sfax 1,RBOUHL0,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise sfax 4,HANTOU,2
+2024-06-16,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,2
+2024-06-13,335,Tawa bonus,BOUTIQUE,Boutique Central Park,AMRIABI,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Sfax 5,AMTRABMI,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Gafsa,AKWISSL,1
+2024-06-06,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,CHEAML,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Bardo,IHAMDI0,1
+2024-06-03,99,Edawa5,LAB2.0,LAB MOBILE SQUARE,MAKHLFC,1
+2024-06-01,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,HRIAHI,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Ksar Helal,LKARMA,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Manouba,BGTAS,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Cite Riadh,OKBI,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Lac II,JABWID,1
+2024-06-06,99,Edawa5,LAB2.0,LAB ESPACE LASSOUED PDV,BABCHIC,1
+2024-06-14,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,WFRAJC,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,NKATK,1
+2024-06-04,99,Edawa5,LAB2.0,LAB ZARZIS GSM,RABMNL,1
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Ettadhamen,HABHAB,1
+2024-06-15,99,Edawa5,LAB2.0,LAB TABARKA GSM,CHNOUR,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Fouchana,ICSAC,2
+2024-06-11,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 15,DISTSMS,1
+2024-06-11,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,7
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Lac II,KDRID,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Monastir,MBOKDIDA,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Jerba H Souk,TMANE,1
+2024-06-14,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,TRABWC,2
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Marsa,RFERIA0,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Ezzahrouni,GHHAN,2
+2024-06-01,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,AKADR,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Tozeur,HCHEBB,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,KABDE,1
+2024-06-17,335,Tawa bonus,FRANCHISE,Franchise Ben Guerdane,MMABSOUT,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Korba,CYJAAF,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Mahdia,MEDANOUZ,1
+2024-06-10,99,Edawa5,LAB2.0,LAB BEB JEDID,TONMAC,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Nabeul,MLAHWE0,2
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Ezzahra,NSAYAR0,1
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CHEREY,1
+2024-06-07,99,Edawa5,BOUTIQUE,Boutique Kairouan,FOUADA,2
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Mahdia,KAAROUI,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Sahloul,TABAHRI,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Ettadhamen,ANESSRN,1
+2024-06-10,335,Tawa bonus,FRANCHISE,Franchise Ben Arous,SBZOUITA,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Ettadhamen,HABHAB,1
+2024-06-12,335,Tawa bonus,LAB2.0,LAB 2.0 NOUR ARIANA,SAMEDC,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Bizerte,SAHWIA,1
+2024-06-17,99,Edawa5,LAB2.0,LAB Mediatec,RMERIEM,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Tunis City,MHAMMEMI,1
+2024-06-17,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,AKAMOUN,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Bardo,YMAAZA0,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Ariana,MAAYARC,1
+2024-06-03,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,NONATAR,1
+2024-06-07,340,OBBBA,BOUTIQUE,Boutique Jendouba,AKCHINI,1
+2024-06-04,99,Edawa5,BOUTIQUE,Boutique Tunis City,MBENNA0,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Gafsa,JAAMAN,1
+2024-06-10,99,Edawa5,BOUTIQUE,Boutique Sfax 1,HGANNO0,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Bardo,IHAMDI0,1
+2024-06-02,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 13,DISTSMS,1
+2024-06-11,99,Edawa5,BOUTIQUE,Boutique Habib Bourguiba,JABMUSTA,1
+2024-06-03,99,Edawa5,BOUTIQUE,Boutique Monastir,BFRAMZI,1
+2024-06-12,99,Edawa5,FRANCHISE,Franchise Manouba,MANAGH,1
+2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,1
+2024-06-05,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,TRIKIMC,1
+2024-06-06,99,Edawa5,BOUTIQUE,Boutique Kairouan,MJBENA,2
+2024-06-13,99,Edawa5,FRANCHISE,LAB 2.0 Sté TAKE IT ALL,KHMON,1
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Sidi Bouzid,ANAWR,1
+2024-06-04,99,Edawa5,LAB2.0,LAB Menzel Temime,HMRYAM,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Beja,MAGHCHA,1
+2024-06-15,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,ABRGZC,1
+2024-06-13,335,Tawa bonus,AGENCE TRADE,Rayen com_Trade_Achraf Khanfir,ATRCOM,3
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Manouba,MANAGH,3
+2024-06-05,99,Edawa5,FRANCHISE,Franchise Sidi Hassine,CMORCHC,1
+2024-06-05,335,Tawa bonus,BOUTIQUE,Boutique Kef,THABETLI,1
+2024-06-13,99,Edawa5,LAB2.0,LAB 2.0 TB CALL,TRIKIMC,1
+2024-06-11,335,Tawa bonus,LAB2.0,LAB 2.0 TECH WORLD,ACHOUCH,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Monastir,MCHATEUR,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Mahdia,SIRINSFA,1
+2024-06-15,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,SRABE,1
+2024-06-04,335,Tawa bonus,FRANCHISE,Franchise Ezzahrouni,HANKAK,1
+2024-06-08,99,Edawa5,FRANCHISE,Franchise Sousse 1,HIMEN,2
+2024-06-07,334,New 3alami,TRAVEL RETAIL,PDV TRADE,CMSGPS,2
+2024-06-04,99,Edawa5,LAB2.0,LAB ABIRIGA SVCE GSM,HEDLNC,1
+2024-06-12,99,Edawa5,LAB2.0,LAB 2.0 Telecom Express,BOURHB,1
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,FOUADA,2
+2024-06-04,335,Tawa bonus,AGENCE TRADE,PDV trade haifer 11,DISTSMS,1
+2024-06-06,99,Edawa5,FRANCHISE,Franchise Ettadhamen,RACHAM,1
+2024-06-02,99,Edawa5,LAB2.0,LAB SERVICE INFORMATIQUE,TRABWC,2
+2024-06-03,99,Edawa5,FRANCHISE,Franchise Marsa 2,OBABY,1
+2024-06-15,99,Edawa5,FRANCHISE,Franchise Sahloul,SSALW,1
+2024-06-08,335,Tawa bonus,FRANCHISE,Franchise Manouba,MANAGH,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,TASILI,2
+2024-06-05,99,Edawa5,BOUTIQUE,Boutique Kairouan,ECHERIF,3
+2024-06-04,99,Edawa5,FRANCHISE,Franchise Manouba,MANAGH,1
+2024-06-12,99,Edawa5,BOUTIQUE,Boutique Sfax 1,RBOUHL0,2
+2024-06-14,99,Edawa5,FRANCHISE,Franchise Marsa 2,NOUBC,1
+2024-06-14,99,Edawa5,BOUTIQUE,Boutique Mahdia,IMENZAOU,1
+2024-06-11,99,Edawa5,LAB2.0,LAB 2.0 Haitham Gsm,NAIFTN,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,FCHOUCHA,1
+2024-06-13,99,Edawa5,FRANCHISE,Franchise Kalaa Kebira,CCHAYMA,1
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sousse 1,SOUKHAO,1
+2024-06-06,335,Tawa bonus,BOUTIQUE,Boutique Kairouan,MJBENA,1
+2024-06-13,99,Edawa5,BOUTIQUE,Boutique Aeroport T.Carthage,HRIAHI,2
+2024-06-11,99,Edawa5,FRANCHISE,Franchise Sfax 5,AMGHRB,1
+2024-06-10,99,Edawa5,FRANCHISE,Franchise MANZEH6,MDASBRI,1
+2024-06-07,99,Edawa5,FRANCHISE,Franchise Kram,AISSAYN,2
