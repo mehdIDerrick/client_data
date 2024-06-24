@@ -49,7 +49,7 @@ async def get_data(
 
     return {"data": filtered_data}
 
-@app.post("/calculate_kpi")
+@app.get("/calculate_kpi/")
 async def calculate_kpi():
     try:
         # Utiliser les données stockées
@@ -85,7 +85,7 @@ async def calculate_kpi():
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
-@app.post("/get_evolution")
+@app.get("/get_evolution/")
 async def get_evolution():
     try:
         # Utiliser les données stockées
