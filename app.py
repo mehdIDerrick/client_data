@@ -78,7 +78,6 @@ async def calculate_kpi():
 
         # Retourner les résultats sous forme de JSON
         return {
-            'transactions_per_day': transactions_per_day_dict,
             'best_sellers': best_sellers_dict
         }
 
@@ -116,7 +115,6 @@ async def get_evolution():
 
         # Retourner les résultats sous forme de JSON
         return {
-            'transactions_per_day': transactions_per_day_dict,
             'evolution': evolution_dict
         }
 
