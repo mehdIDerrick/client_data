@@ -61,19 +61,16 @@ async def calculate_kpi():
         # Afficher les premières lignes pour débogage
         print(df.head())
 
-        # Convertir les dates
-        df['trnsaction_date'] = pd.to_datetime(df['trnsaction_date'], format='%d/%m/%Y')
-        df['activation_date'] = pd.to_datetime(df['activation_date'], format='%d/%m/%Y')
+ 
 
         # Calculer le nombre de transactions et d'activations par jour
         transactions_per_day = df.groupby('trnsaction_date').agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
 
         # Identifier les meilleurs vendeurs
-        best_sellers = df.groupby('seller_id').agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
+        best_sellers = df.groupby(['seller_id','entity_name']).agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
         best_sellers = best_sellers.sort_values(by='nbr_transaction', ascending=False)
 
         # Convertir les résultats en dictionnaires pour JSON
-        transactions_per_day_dict = transactions_per_day.to_dict(orient='records')
         best_sellers_dict = best_sellers.to_dict(orient='records')
 
         # Retourner les résultats sous forme de JSON
@@ -96,21 +93,17 @@ async def get_evolution():
         # Afficher les premières lignes pour débogage
         print(df.head())
 
-        # Convertir les dates
-        df['trnsaction_date'] = pd.to_datetime(df['trnsaction_date'], format='%d/%m/%Y')
-        df['activation_date'] = pd.to_datetime(df['activation_date'], format='%d/%m/%Y')
+
 
         # Calculer le nombre de transactions et d'activations par jour
-        transactions_per_day = df.groupby('trnsaction_date').agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
 
         # Evolution par jour, offre, et vendeur
-        evolution = df.groupby(['trnsaction_date', 'offer_name', 'seller_id']).agg({
+        evolution = df.groupby(['trnsaction_date', 'offer_name', 'seller_id','entity_name']).agg({
             'nbr_transaction': 'sum', 
-            'nbr_activation': 'sum'
+            'nbr_activation': 'sum',
         }).reset_index()
 
         # Convertir les résultats en dictionnaires pour JSON
-        transactions_per_day_dict = transactions_per_day.to_dict(orient='records')
         evolution_dict = evolution.to_dict(orient='records')
 
         # Retourner les résultats sous forme de JSON
@@ -123,3 +116,4 @@ async def get_evolution():
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
