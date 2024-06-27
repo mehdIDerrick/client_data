@@ -3,10 +3,14 @@ from pydantic import BaseModel
 import pandas as pd
 from typing import List, Optional
 import uvicorn
+
 app = FastAPI()
 
 # Charger les données CSV
-df = pd.read_csv('client.csv')
+df = pd.read_csv('clients.csv')
+
+# Remplacer les valeurs NaN dans la colonne offer_name par des chaînes vides
+df['offer_name'] = df['offer_name'].fillna('')
 
 # Définir un modèle de données pour la réponse API
 class Transaction(BaseModel):
@@ -50,5 +54,5 @@ def filter_transactions(
     return transactions
 
 # Pour démarrer le serveur FastAPI
-if __name__ == "__main__":    
+if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
