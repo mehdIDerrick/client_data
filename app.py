@@ -1,124 +1,54 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, Query
+from pydantic import BaseModel
 import pandas as pd
 from typing import List, Optional
 import uvicorn
-
 app = FastAPI()
 
-# Variable globale pour stocker les données CSV
-stored_data = []
+# Charger les données CSV
+df = pd.read_csv('clients.csv')
 
-def read_csv():
-    global stored_data
-    try:
-        # Lire le fichier CSV en DataFrame pandas
-        df = pd.read_csv("client.csv")
-        # Vérifier si les colonnes nécessaires existent
-        required_columns = ["trnsaction_date", "activation_date", "nbr_transaction", "nbr_activation", "offer_name", "seller_id"]
-        for column in required_columns:
-            if column not in df.columns:
-                raise HTTPException(status_code=400, detail=f"Colonne manquante: {column}")
-        # Convertir le DataFrame en dictionnaire
-        stored_data = df.to_dict(orient="records")
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Erreur de lecture du fichier CSV: {str(e)}")
+# Définir un modèle de données pour la réponse API
+class Transaction(BaseModel):
+    seller_id: str
+    transaction_date: str
+    offer_name: Optional[str]
+    entity_name: str
+    entity_type_name: str
+    nombreactivation: int
+    nombretransaction: int
 
-# Lire le fichier CSV au démarrage de l'application
-read_csv()
+# Route pour récupérer toutes les transactions
+@app.get("/get-data/", response_model=List[Transaction])
+def get_all_transactions():
+    transactions = df.to_dict(orient='records')
+    return transactions
 
-@app.get("/get-data/")
-async def get_data(
-    tmcode: Optional[int] = Query(None, description="Code TM pour filtrer"),
-    entity_name: Optional[str] = Query(None, description="Nom de l'entité pour filtrer"),
-    activation_date: Optional[str] = Query(None, description="Date d'activation pour filtrer au format YYYY-MM-DD")
+# Route pour filtrer les transactions
+@app.get("/get-data/filter", response_model=List[Transaction])
+def filter_transactions(
+    seller_id: Optional[str] = Query(None),
+    entity_name: Optional[str] = Query(None),
+    entity_type_name: Optional[str] = Query(None),
+    nombreactivation: Optional[int] = Query(None),
+    nombretransaction: Optional[int] = Query(None)
 ):
-    if not stored_data:
-        raise HTTPException(status_code=404, detail="Aucune donnée disponible")
+    filtered_df = df.copy()
 
-    # Filtrer les données selon les paramètres de requête
-    filtered_data = stored_data
-    if tmcode is not None:
-        filtered_data = [item for item in filtered_data if item["tmcode"] == tmcode]
-    if entity_name is not None:
-        filtered_data = [item for item in filtered_data if item["entity_name"] == entity_name]
-    if activation_date is not None:
-        filtered_data = [item for item in filtered_data if item["activation_date"] == activation_date]
+    if seller_id:
+        filtered_df = filtered_df[filtered_df['seller_id'] == seller_id]
+    if entity_name:
+        filtered_df = filtered_df[filtered_df['entity_name'] == entity_name]
+    if entity_type_name:
+        filtered_df = filtered_df[filtered_df['entity_type_name'] == entity_type_name]
+    if nombreactivation is not None:
+        filtered_df = filtered_df[filtered_df['nombreactivation'] == nombreactivation]
+    if nombretransaction is not None:
+        filtered_df = filtered_df[filtered_df['nombretransaction'] == nombretransaction]
 
-    if not filtered_data:
-        raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
-        # Trier les données par "transaction_date" puis par "activation_date"
-    sorted_data = sorted(
-        filtered_data,
-        key=lambda x: (x["trnsaction_date"], x["activation_date"])
-    )
+    transactions = filtered_df.to_dict(orient='records')
+    return transactions
 
-    return {"data": sorted_data}
-
-
-@app.get("/calculate_kpi/")
-async def calculate_kpi():
-    try:
-        # Utiliser les données stockées
-        data = stored_data
-
-        # Créer un DataFrame à partir des données
-        df = pd.DataFrame(data)
-
-        # Afficher les premières lignes pour débogage
-        print(df.head())
-
- 
-
-        # Calculer le nombre de transactions et d'activations par jour
-        transactions_per_day = df.groupby('trnsaction_date').agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
-
-        # Identifier les meilleurs vendeurs
-        best_sellers = df.groupby(['seller_id','entity_name']).agg({'nbr_transaction': 'sum', 'nbr_activation': 'sum'}).reset_index()
-        best_sellers = best_sellers.sort_values(by='nbr_transaction', ascending=False)
-
-        # Convertir les résultats en dictionnaires pour JSON
-        best_sellers_dict = best_sellers.to_dict(orient='records')
-
-        # Retourner les résultats sous forme de JSON
-        return {
-            'best_sellers': best_sellers_dict
-        }
-
-    except Exception as e:
-        raise HTTPException(status_code=400, detail=str(e))
-
-@app.get("/get_evolution/")
-async def get_evolution():
-    try:
-        # Utiliser les données stockées
-        data = stored_data
-
-        # Créer un DataFrame à partir des données
-        df = pd.DataFrame(data)
-
-        # Afficher les premières lignes pour débogage
-        print(df.head())
-
-
-
-        # Calculer le nombre de transactions et d'activations par jour
-
-        # Evolution par jour, offre, et vendeur
-        evolution = df.groupby(['trnsaction_date', 'offer_name', 'seller_id','entity_name']).agg({
-            'nbr_transaction': 'sum', 
-            'nbr_activation': 'sum',
-        }).reset_index()
-
-        # Convertir les résultats en dictionnaires pour JSON
-        evolution_dict = evolution.to_dict(orient='records')
-
-        # Retourner les résultats sous forme de JSON
-        return {
-            'evolution': evolution_dict
-        }
-
-    except Exception as e:
-        raise HTTPException(status_code=400, detail=str(e))
-
+# Pour démarrer le serveur FastAPI
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
