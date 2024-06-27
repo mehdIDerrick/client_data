@@ -7,7 +7,7 @@ import uvicorn
 app = FastAPI()
 
 # Charger les données CSV
-df = pd.read_csv('clients.csv')
+df = pd.read_csv('client.csv')
 
 # Remplacer les valeurs NaN dans la colonne offer_name par des chaînes vides
 df['offer_name'] = df['offer_name'].fillna('')
