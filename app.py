@@ -6,7 +6,7 @@ import uvicorn
 app = FastAPI()
 
 # Charger les données CSV
-df = pd.read_csv('clients.csv')
+df = pd.read_csv('client.csv')
 
 # Définir un modèle de données pour la réponse API
 class Transaction(BaseModel):
