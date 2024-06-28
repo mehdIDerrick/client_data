@@ -56,8 +56,13 @@ async def get_data(
 
     if not filtered_data:
         raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
+        # Trier les données par "transaction_date" puis par "activation_date"
+    sorted_data = sorted(
+        filtered_data,
+        key=lambda x: (x["trnsaction_date"], x["activation_date"])
+    )
 
-    return {"data": filtered_data}
+    return {"data": sorted_data}
 
 # Route pour récupérer toutes les transactions
 @app.get("/get-data_all_new/", response_model=List[Transaction])
