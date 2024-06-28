@@ -62,13 +62,12 @@ async def get_data(
         key=lambda x: (x["trnsaction_date"], x["activation_date"]),
         reverse=True
     )
-    nbr_activation = sum(1 for item in sorted_data if item["activation_date"] is not None)
-    nbr_transaction = len(sorted_data)
-    taux_conversion_global = nbr_activation / nbr_transaction if nbr_transaction > 0 else 0
-
     # Ajouter le taux de conversion global à chaque ligne
     for item in sorted_data:
-        item["taux_conversion_global"] = taux_conversion_global
+        nbr_transaction = item.get("nbr_transaction", 0)
+        nbr_activation = item.get("nbr_activation", 0)
+        item["taux_conversion"] = nbr_activation / nbr_transaction if nbr_transaction > 0 else 0
+
     return {"data": sorted_data}
 
 # Route pour récupérer toutes les transactions
