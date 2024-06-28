@@ -35,7 +35,6 @@ def read_csv(file_name: str, required_columns: List[str]) -> List[dict]:
 
 # Lire les fichiers CSV au démarrage de l'application
 stored_data = read_csv("client.csv", ["trnsaction_date", "activation_date", "nbr_transaction", "nbr_activation", "offer_name", "seller_id"])
-stored_data_new = read_csv("clients_new.csv", ["seller_id", "transaction_date", "offer_name", "entity_name", "entity_type_name", "nombreactivation", "nombretransaction"])
 
 @app.get("/get-data/")
 async def get_data(
