@@ -60,9 +60,11 @@ async def get_data(
     return {"data": filtered_data}
 
 # Route pour récupérer toutes les transactions
-@app.get("/get-data_all/", response_model=List[Transaction])
+@app.get("/get-data_all_new/", response_model=List[Transaction])
 def get_all_transactions():
-    transactions = df_new.to_dict(orient='records')
+    # Remplacer NaN par une chaîne vide dans le DataFrame
+    df_new_filled = df_new.fillna('')
+    transactions = df_new_filled.to_dict(orient='records')
     return transactions
 
 @app.get("/calculate_kpi/")
