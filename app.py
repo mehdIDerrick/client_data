@@ -66,7 +66,7 @@ async def get_data(
     for item in sorted_data:
         nbr_transaction = item.get("nbr_transaction", 0)
         nbr_activation = item.get("nbr_activation", 0)
-        item["taux_conversion"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
+        item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
     return {"data": sorted_data}
 
 # Route pour récupérer toutes les transactions
