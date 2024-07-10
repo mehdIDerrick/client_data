@@ -6,7 +6,7 @@ import pandas as pd
 import uvicorn
 
 # Charger les données JSON depuis le fichier
-with open(r'boutiques.json', 'r') as f:
+with open('boutiques.json', 'r') as f:
     data = json.load(f)
 
 # Modèle Pydantic pour représenter les données JSON
