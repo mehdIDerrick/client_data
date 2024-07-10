@@ -1,11 +1,56 @@
-from fastapi import FastAPI, HTTPException, Query
-import pandas as pd
-from typing import List, Optional
-import uvicorn
+from fastapi import FastAPI, HTTPException, Query, Depends
 from pydantic import BaseModel
+from typing import List, Optional
+import json
+import pandas as pd
+import uvicorn
 
+# Charger les données JSON depuis le fichier
+with open(r'boutiques.json', 'r') as f:
+    data = json.load(f)
+
+# Modèle Pydantic pour représenter les données JSON
+class DataItem(BaseModel):
+    msisdn: str
+    refill: str
+    entity_type_name: str
+    entity_name: List[str]
+
+# Instanciation de l'application FastAPI
 app = FastAPI()
-df_new = pd.read_csv('clients_new.csv')
+
+# Fonction d'authentification
+def authenticate_user(msisdn: str):
+    for entry in data:
+        if entry['msisdn'] == msisdn:
+            return entry
+    raise HTTPException(status_code=401, detail="Unauthorized")
+
+# Route pour filtrer les données avec authentification
+@app.get("/msisdn-user/")
+def filter_data(
+    msisdn: str = Depends(authenticate_user), 
+    entity_type_name: Optional[str] = None, 
+):
+    filtered_results = []
+
+    for entry in data:
+        match = True
+
+        if msisdn and entry['msisdn'] != msisdn['msisdn']:
+            match = False
+
+        if entity_type_name:
+            if entity_type_name == "all":
+                pass
+            elif entity_type_name in ["BOUTIQUE", "LAB2.0", "FRANCHISE"] and entry["entity_type_name"] != entity_type_name:
+                match = False
+
+
+        if match:
+            filtered_results.append(entry)
+
+    return filtered_results
 
 # Définir un modèle de données pour la réponse API
 class Transaction(BaseModel):
@@ -16,6 +61,7 @@ class Transaction(BaseModel):
     entity_type_name: str
     nombreactivation: int
     nombretransaction: int
+
 # Variables globales pour stocker les données CSV
 stored_data = []
 stored_data_new = []
@@ -35,7 +81,7 @@ def read_csv(file_name: str, required_columns: List[str]) -> List[dict]:
 
 # Lire les fichiers CSV au démarrage de l'application
 stored_data = read_csv("client.csv", ["trnsaction_date", "activation_date", "nbr_transaction", "nbr_activation", "offer_name", "seller_id"])
-
+df_new = pd.read_csv('clients_new.csv')
 @app.get("/get-data/")
 async def get_data(
     tmcode: Optional[int] = Query(None, description="Code TM pour filtrer"),
@@ -68,6 +114,41 @@ async def get_data(
         nbr_activation = item.get("nbr_activation", 0)
         item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
+    return {"data": sorted_data}
+@app.get("/get-data-by-user/")
+async def get_data(
+    msisdn: str = Depends(authenticate_user),
+   
+):
+    if not stored_data:
+        raise HTTPException(status_code=404, detail="Aucune donnée disponible")
+
+    # Filtrer les données selon les paramètres de requête
+    filtered_data = stored_data
+    if msisdn['entity_name'] and 'all' not in msisdn['entity_name']:
+        filtered_data = [item for item in filtered_data if item["entity_name"] in msisdn['entity_name']]
+
+
+
+    if msisdn['entity_type_name'] != 'all':
+        filtered_data = [item for item in filtered_data if item["entity_type_name"] == msisdn['entity_type_name']]
+
+    if not filtered_data:
+        raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
+    
+    # Trier les données par "transaction_date" puis par "activation_date"
+    sorted_data = sorted(
+        filtered_data,
+        key=lambda x: (x["trnsaction_date"], x["activation_date"]),
+        reverse=True
+    )
+    # Ajouter le taux de conversion global à chaque ligne
+    for item in sorted_data:
+        nbr_transaction = item.get("nbr_transaction", 0)
+        nbr_activation = item.get("nbr_activation", 0)
+        item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
+        item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
+    
     return {"data": sorted_data}
 
 # Route pour récupérer toutes les transactions
