@@ -1,0 +1,58 @@
+[
+   {
+      "msisdn":"50514632",
+      "refill":"n",
+      "entity_type_name":"all",
+      "entity_name":[
+         "all"
+      ]
+   },
+   {
+      "msisdn":"51514632",
+      "refill":"n+1",
+      "entity_type_name":"BOUTIQUE",
+      "entity_name":[
+         "all"
+      ]
+   },
+   {
+      "msisdn":"52514632",
+      "refill":"n+2",
+      "entity_type_name":"BOUTIQUE",
+      "entity_name":[
+         "Boutique Tunis City"
+      ]
+   },
+   {
+      "msisdn":"53514632",
+      "refill":"n+1",
+      "entity_type_name":"FRANCHISE",
+      "entity_name":[
+         "all"
+      ]
+   },
+   {
+      "msisdn":"54514632",
+      "refill":"n+2",
+      "entity_type_name":"FRANCHISE",
+      "entity_name":[
+         "Franchise Sousse 1"
+      ]
+   },
+   {
+      "msisdn":"55514632",
+      "refill":"n+1",
+      "entity_type_name":"LAB2.0",
+      "entity_name":[
+         "all"
+      ]
+   },
+   {
+      "msisdn":"56514632",
+      "refill":"n+2",
+      "entity_type_name":"LAB2.0",
+      "entity_name":[
+         "LAB TABARKA GSM"
+      ]
+   }
+]
