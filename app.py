@@ -6,8 +6,16 @@ import pandas as pd
 import uvicorn
 
 # Charger les données JSON depuis le fichier
-with open('Boutiques.json', 'r') as f:
-    data = json.load(f)
+try:
+    with open('boutiques.json', 'r') as f:
+        data = json.load(f)
+except FileNotFoundError:
+    print("Le fichier boutiques.json est introuvable.")
+except json.JSONDecodeError:
+    print("Erreur de déchiffrement JSON.")
+except Exception as e:
+    print(f"Une erreur est survenue : {str(e)}")
+
 
 # Modèle Pydantic pour représenter les données JSON
 class DataItem(BaseModel):
