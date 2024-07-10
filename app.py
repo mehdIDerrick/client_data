@@ -7,7 +7,7 @@ import uvicorn
 
 # Charger les données JSON depuis le fichier
 try:
-    with open('boutiques.json', 'r') as f:
+    with open('Boutiques.json', 'r') as f:
         data = json.load(f)
 except FileNotFoundError:
     print("Le fichier boutiques.json est introuvable.")
