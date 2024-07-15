@@ -22,9 +22,10 @@ except Exception as e:
 class DataItem(BaseModel):
     msisdn: str
     refill: str
+    password: str
     entity_type_name: str
     entity_name: List[str]
-    password: str
+
 
 # Instanciation de l'application FastAPI
 app = FastAPI()
