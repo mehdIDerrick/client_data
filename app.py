@@ -164,7 +164,7 @@ async def get_data_by_user(
         item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
     
-    return {"data": sorted_data}
+    return {"data": sorted_data,"msisdn":msisdn}
 
 # Route pour récupérer toutes les transactions
 @app.get("/get-data_all_new/", response_model=List[Transaction])
