@@ -44,7 +44,7 @@ def filter_data(
     password: str,
     entity_type_name: Optional[str] = None
 ):
-    user = authenticate_user(msisdn, password)
+    msisdn = authenticate_user(msisdn, password)
     filtered_results = []
 
 
@@ -134,7 +134,7 @@ async def get_data_by_user(
     msisdn: str,
     password: str
 ):
-    user = authenticate_user(msisdn, password)
+    msisdn = authenticate_user(msisdn, password)
     if not stored_data:
         raise HTTPException(status_code=404, detail="Aucune donnée disponible")
 
