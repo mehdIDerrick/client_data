@@ -33,9 +33,12 @@ app = FastAPI()
 # Fonction d'authentification
 def authenticate_user(msisdn: str, password: str):
     for entry in data:
-        if entry['msisdn'] == msisdn and entry['password'] == password:
-            return entry
-    raise HTTPException(status_code=401, detail="Unauthorized")
+        if entry['msisdn'] == msisdn:
+            if entry['password'] == password:
+                return entry
+            else:
+                raise HTTPException(status_code=401, detail="Mot de passe incorrect")
+    raise HTTPException(status_code=404, detail="MSISDN non trouvé")
 
 # Route pour filtrer les données avec authentification
 @app.get("/msisdn-user/")
