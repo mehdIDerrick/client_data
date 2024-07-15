@@ -17,30 +17,35 @@ except Exception as e:
     print(f"Une erreur est survenue : {str(e)}")
 
 
+
 # Modèle Pydantic pour représenter les données JSON
 class DataItem(BaseModel):
     msisdn: str
     refill: str
     entity_type_name: str
     entity_name: List[str]
+    password: str
 
 # Instanciation de l'application FastAPI
 app = FastAPI()
 
 # Fonction d'authentification
-def authenticate_user(msisdn: str):
+def authenticate_user(msisdn: str, password: str):
     for entry in data:
-        if entry['msisdn'] == msisdn:
+        if entry['msisdn'] == msisdn and entry['password'] == password:
             return entry
     raise HTTPException(status_code=401, detail="Unauthorized")
 
 # Route pour filtrer les données avec authentification
 @app.get("/msisdn-user/")
 def filter_data(
-    msisdn: str = Depends(authenticate_user), 
-    entity_type_name: Optional[str] = None, 
+    msisdn: str,
+    password: str,
+    entity_type_name: Optional[str] = None
 ):
+    user = authenticate_user(msisdn, password)
     filtered_results = []
+
 
     for entry in data:
         match = True
@@ -124,10 +129,11 @@ async def get_data(
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
     return {"data": sorted_data}
 @app.get("/get-data-by-user/")
-async def get_data(
-    msisdn: str = Depends(authenticate_user),
-   
+async def get_data_by_user(
+    msisdn: str,
+    password: str
 ):
+    user = authenticate_user(msisdn, password)
     if not stored_data:
         raise HTTPException(status_code=404, detail="Aucune donnée disponible")
 
