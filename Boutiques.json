@@ -2,7 +2,7 @@
    {
       "msisdn":"50514632",
       "refill":"n",
-      "password":"12356",
+      "password":"1234",
       "entity_type_name":"all",
       "entity_name":[
          "all"
@@ -11,7 +11,7 @@
    {
       "msisdn":"51514632",
       "refill":"n+1",
-      "password":"12356",
+      "password":"1234",
       "entity_type_name":"BOUTIQUE",
       "entity_name":[
          "all"
@@ -38,6 +38,7 @@
    {
       "msisdn":"54514632",
       "refill":"n+2",
+      "password":"12356",
       "entity_type_name":"FRANCHISE",
       "entity_name":[
          "Franchise Sousse 1"
