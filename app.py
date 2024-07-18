@@ -16,8 +16,6 @@ except json.JSONDecodeError:
 except Exception as e:
     print(f"Une erreur est survenue : {str(e)}")
 
-
-
 # Modèle Pydantic pour représenter les données JSON
 class DataItem(BaseModel):
     msisdn: str
@@ -25,7 +23,6 @@ class DataItem(BaseModel):
     password: str
     entity_type_name: str
     entity_name: List[str]
-
 
 # Instanciation de l'application FastAPI
 app = FastAPI()
@@ -50,7 +47,6 @@ def filter_data(
     msisdn = authenticate_user(msisdn, password)
     filtered_results = []
 
-
     for entry in data:
         match = True
 
@@ -62,7 +58,6 @@ def filter_data(
                 pass
             elif entity_type_name in ["BOUTIQUE", "LAB2.0", "FRANCHISE"] and entry["entity_type_name"] != entity_type_name:
                 match = False
-
 
         if match:
             filtered_results.append(entry)
@@ -99,6 +94,7 @@ def read_csv(file_name: str, required_columns: List[str]) -> List[dict]:
 # Lire les fichiers CSV au démarrage de l'application
 stored_data = read_csv("client.csv", ["trnsaction_date", "activation_date", "nbr_transaction", "nbr_activation", "offer_name", "seller_id"])
 df_new = pd.read_csv('clients_new.csv')
+
 @app.get("/get-data/")
 async def get_data(
     tmcode: Optional[int] = Query(None, description="Code TM pour filtrer"),
@@ -119,12 +115,14 @@ async def get_data(
 
     if not filtered_data:
         raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
-        # Trier les données par "transaction_date" puis par "activation_date"
+    
+    # Trier les données par "transaction_date" puis par "activation_date"
     sorted_data = sorted(
         filtered_data,
         key=lambda x: (x["trnsaction_date"], x["activation_date"]),
         reverse=True
     )
+
     # Ajouter le taux de conversion global à chaque ligne
     for item in sorted_data:
         nbr_transaction = item.get("nbr_transaction", 0)
@@ -132,6 +130,7 @@ async def get_data(
         item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
     return {"data": sorted_data}
+
 @app.get("/get-data-by-user/")
 async def get_data_by_user(
     msisdn: str,
@@ -146,8 +145,6 @@ async def get_data_by_user(
     if msisdn['entity_name'] and 'all' not in msisdn['entity_name']:
         filtered_data = [item for item in filtered_data if item["entity_name"] in msisdn['entity_name']]
 
-
-
     if msisdn['entity_type_name'] != 'all':
         filtered_data = [item for item in filtered_data if item["entity_type_name"] == msisdn['entity_type_name']]
 
@@ -160,6 +157,7 @@ async def get_data_by_user(
         key=lambda x: (x["trnsaction_date"], x["activation_date"]),
         reverse=True
     )
+
     # Ajouter le taux de conversion global à chaque ligne
     for item in sorted_data:
         nbr_transaction = item.get("nbr_transaction", 0)
@@ -167,7 +165,7 @@ async def get_data_by_user(
         item["taux_conversion_global"] = round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
     
-    return {"data": sorted_data,"msisdn":msisdn}
+    return {"data": sorted_data, "msisdn": msisdn}
 
 # Route pour récupérer toutes les transactions
 @app.get("/get-data_all_new/", response_model=List[Transaction])
@@ -237,6 +235,7 @@ async def get_evolution():
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
