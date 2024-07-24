@@ -24,6 +24,11 @@ class DataItem(BaseModel):
     entity_type_name: str
     entity_name: List[str]
 
+def safe_date_str(date):
+    if isinstance(date, datetime):
+        return date.isoformat()
+    return str(date)
+    
 # Instanciation de l'application FastAPI
 app = FastAPI()
 
@@ -117,11 +122,17 @@ async def get_data(
         raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
     
     # Trier les données par "transaction_date" puis par "activation_date"
+    for item in filtered_data:
+        item["transaction_date"] = safe_date_str(item.get("transaction_date", ""))
+        item["activation_date"] = safe_date_str(item.get("activation_date", ""))
+
+    # Trier les données par "transaction_date" puis par "activation_date"
     sorted_data = sorted(
         filtered_data,
-        key=lambda x: (x["trnsaction_date"], x["activation_date"]),
+        key=lambda x: (x["transaction_date"], x["activation_date"]),
         reverse=True
     )
+
 
     # Ajouter le taux de conversion global à chaque ligne
     for item in sorted_data:
@@ -150,13 +161,18 @@ async def get_data_by_user(
 
     if not filtered_data:
         raise HTTPException(status_code=404, detail="Aucune donnée ne correspond aux critères de filtrage")
-    
+
+    for item in filtered_data:
+        item["transaction_date"] = safe_date_str(item.get("transaction_date", ""))
+        item["activation_date"] = safe_date_str(item.get("activation_date", ""))
+
     # Trier les données par "transaction_date" puis par "activation_date"
     sorted_data = sorted(
         filtered_data,
-        key=lambda x: (x["trnsaction_date"], x["activation_date"]),
+        key=lambda x: (x["transaction_date"], x["activation_date"]),
         reverse=True
     )
+
 
     # Ajouter le taux de conversion global à chaque ligne
     for item in sorted_data:
