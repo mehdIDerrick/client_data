@@ -4,6 +4,7 @@ from typing import List, Optional
 import json
 import pandas as pd
 import uvicorn
+from datetime import datetime
 
 # Charger les données JSON depuis le fichier
 try:
