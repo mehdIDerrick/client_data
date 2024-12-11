@@ -134,7 +134,15 @@ async def get_data(
         item["taux_non_conversion_global"] = 1 - round(nbr_activation / nbr_transaction, 3) if nbr_transaction > 0 else 0.0
 
     # Remplacer les valeurs NaN et Inf par None pour éviter les erreurs de JSON
-    sanitized_data = json.loads(json.dumps(sorted_data, allow_nan=False))
+    sanitized_data = []
+    for item in sorted_data:
+        sanitized_item = {}
+        for k, v in item.items():
+            if isinstance(v, float) and (math.isnan(v) or math.isinf(v)):
+                sanitized_item[k] = None  # Replace invalid float values with None
+            else:
+                sanitized_item[k] = v
+        sanitized_data.append(sanitized_item)
 
     return {"data": sanitized_data}
 
